@@ -1,17 +1,14 @@
-# hugo-theme-toastersrocks
+# hugo-theme-vaporfeed
 
-My vaporwave theme for Hugo. Made it mostly for myself, but feel free to look at it and maybe even improve it, I guess. Let me know if you use it!
-
-[See it in action!](https://toasters.rocks)
+Based on [juju2143's hugo-theme-toastersrocks](https://github.com/juju2143/hugo-theme-toastersrocks) with some modifications to suit my needs :)
 
 ## Credits
 
 This theme uses some of my favourite fonts:
 
 - [Font Awesome](https://fontawesome.com) (icons)
-- [IBM VGA from the Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/) (mono font)
-- Chaloult (base text and title)
+- [IBM VGA from the Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/) (text font)
 
-Vaporwave background by myself ([get it here!](https://www.deviantart.com/juju2143/art/juju2143-ca-v11-857180659))
+Vaporwave background by juju2143 ([get it here!](https://www.deviantart.com/juju2143/art/juju2143-ca-v11-857180659))
 
 Default icon from the [classic After Dark Flying Toasters screensaver](https://en.wikipedia.org/wiki/After_Dark_(software))
